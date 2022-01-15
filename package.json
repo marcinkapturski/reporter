@@ -22,7 +22,7 @@
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "styled-components": "^5.0.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
